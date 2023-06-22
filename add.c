@@ -4,7 +4,6 @@
  * f_add - adds the top two elements of a stack
  * @head: stacks head
  * @counter: line_number
- *
  * Return: no return
  */
 void f_add(stack_t **head, unsigned int counter)
